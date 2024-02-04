@@ -2,7 +2,7 @@
 
 ## Why I Made This
 
-I often use my JBL headphones with my MacBook Air for music and work. And i have a problem, i ALWAYS forget to disconnect the headphones when i'm done working. This meant I had to take out my laptop AGAIN to manually disconnect them.
+I often use my JBL headphones with my MacBook Air for music and work. And i have a problem, i ALWAYS forget to disconnect the headphones when i'm done working. This meant I had to take out my laptop AGAIN to manually do so.
 
 ## Solution
 
